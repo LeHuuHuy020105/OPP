@@ -1,0 +1,122 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Bai6_3",
+      "request": "launch",
+      "mainClass": "TH07.Bai6_3",
+      "projectName": "OPP_54a2c954"
+    },
+    {
+      "type": "java",
+      "name": "Bai61",
+      "request": "launch",
+      "mainClass": "TH07.Bai61",
+      "projectName": "OPP_54a2c954"
+    },
+    {
+      "type": "java",
+      "name": "Bai6_1",
+      "request": "launch",
+      "mainClass": "TH07.Bai6_1",
+      "projectName": "OPP_54a2c954"
+    },
+    {
+      "type": "java",
+      "name": "Bai5",
+      "request": "launch",
+      "mainClass": "TH07.Bai5",
+      "projectName": "OPP_54a2c954"
+    },
+    {
+      "type": "java",
+      "name": "Bai4",
+      "request": "launch",
+      "mainClass": "TH07.Bai4",
+      "projectName": "OPP_54a2c954"
+    },
+    {
+      "type": "java",
+      "name": "Bai3",
+      "request": "launch",
+      "mainClass": "TH07.Bai3",
+      "projectName": "OPP_54a2c954"
+    },
+    {
+      "type": "java",
+      "name": "Bai2",
+      "request": "launch",
+      "mainClass": "TH07.Bai2",
+      "projectName": "OPP_54a2c954"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "OPP_54a2c954"
+    },
+    {
+      "type": "java",
+      "name": "Bai1",
+      "request": "launch",
+      "mainClass": "TH3.Bai1",
+      "projectName": "OPP_54a2c954"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "OPP_54a2c954"
+    },
+    {
+      "type": "java",
+      "name": "mang",
+      "request": "launch",
+      "mainClass": "TH05.mang",
+      "projectName": "OPP_54a2c954"
+    },
+    {
+      "type": "java",
+      "name": "Bai6",
+      "request": "launch",
+      "mainClass": "TH3.Bai6",
+      "projectName": "OPP_54a2c954"
+    },
+    {
+      "type": "java",
+      "name": "Bai3",
+      "request": "launch",
+      "mainClass": "TH3.Bai3",
+      "projectName": "OPP_54a2c954"
+    },
+    {
+      "type": "java",
+      "name": "Bai3_6",
+      "request": "launch",
+      "mainClass": "TH3.Bai3_6",
+      "projectName": "OPP_54a2c954"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/OPP",
+      "program": "d:/OPP/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
